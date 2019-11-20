@@ -27,7 +27,7 @@ import java.util.concurrent.TimeUnit;
 			
 			driver.get("https://opensource-demo.orangehrmlive.com");
 			
-			String userName = null;
+			//String userName = null;
 			String password = null;
 			String firstname = null;
 			String lastname = null;
